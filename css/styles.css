@@ -35,15 +35,6 @@ h3 {
   font-family: 'Montserrat', sans-serif;
 }
 
-a {
-  color: #EAF6F6;
-  font-family: 'Montserrat', sans-serif;
-  text-decoration: none;
-  font-size: 0.8rem;
-  margin: 15px;
-  line-height: 2;
-}
-
 a:hover {
   font-weight: bold;
   text-decoration: underline;
@@ -107,6 +98,15 @@ a:hover {
   margin-left: 30px;
 }
 
+.footer-link {
+  color: #EAF6F6;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  font-size: 0.8rem;
+  margin: 15px;
+  line-height: 2;
+}
+
 .copyright {
   color: #EAF6F6;
   font-family: 'Montserrat', sans-serif;
@@ -137,8 +137,4 @@ a:hover {
 .btnn:active {
 	position:relative;
 	top:1px;
-}
-
-.creditsImg {
-  float: left;
 }
